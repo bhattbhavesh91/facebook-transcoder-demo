@@ -1,7 +1,14 @@
 # Facebook's TransCoder : Translate Code from Python to C++, Java
+
 ## To view the video
-* [Click here](https://youtu.be/1VHtP5FV0kM)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=1VHtP5FV0kM" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/1VHtP5FV0kM?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Facebook's TransCoder : Translate Code from Python to C++, Java](http://img.youtube.com/vi/1VHtP5FV0kM/0.jpg)](http://www.youtube.com/watch?v=1VHtP5FV0kM)
 
